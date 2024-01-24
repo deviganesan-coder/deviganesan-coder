@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Devi Ganesan</h1>
 <h3 align="center">Researcher in Artificial Intelligence with special focus on Machine Learning.</h3>
-<img align ="left" width= "300" alt ="Women in Science" src="https://www.qs.com/wp-content/uploads/2019/02/iStock-990107166-e1550067852168.jpg"/> 
+<img align ="right" width= "400" alt ="Women in Science" src="https://www.qs.com/wp-content/uploads/2019/02/iStock-990107166-e1550067852168.jpg"/> 
   
 <!-- src="https://cosmosmagazine.com/wp-content/uploads/2022/02/women-in-science-day-header-1200.jpg"/> -->
 - 💬 Ask me about **Python, Machine Learning,  Case-Based Reasoning, Deep Learning, Natural Language Processing**
